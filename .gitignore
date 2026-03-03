@@ -1,0 +1,13 @@
+# Cache Python
+__pycache__/
+core/__pycache__/
+ui/__pycache__/
+*.pyc
+
+# Environnement virtuel
+.venv/
+pyvenv.cfg
+
+# Base de données et paramètres
+database/animes.db
+settings.json
