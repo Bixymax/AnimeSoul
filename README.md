@@ -64,10 +64,8 @@ Internet access is only required for fetching anime posters through the Jikan AP
 
 ## 📸 Screenshots
 
-```markdown
 <img width="1400" height="1033" alt="AnimeSoul_Screenshot" src="https://github.com/user-attachments/assets/81a50647-aea0-4fcc-a36d-f4ecf52c11ae" />
 
-```
 
 ---
 
