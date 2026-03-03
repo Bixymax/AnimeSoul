@@ -52,13 +52,8 @@ Internet access is only required for fetching anime posters through the Jikan AP
   Retrieves official posters via the Jikan API (MyAnimeList).
 
 - 🎨 **Dark & Light Themes**  
-  Fully customizable user interface themes.
-
-- 🖥️ **Responsive UI**  
-  High DPI awareness for Windows and immersive title bar support.
 
 - 📁 **CSV Export**  
-  Securely export your anime database.
 
 ---
 
@@ -137,29 +132,6 @@ animesoul/
 ├── requirements.txt
 └── README.md
 ```
-
----
-
-## 🛣️ Roadmap
-
-- [ ] Anime rating system
-- [ ] Episode tracking
-- [ ] Import/Export from MyAnimeList
-- [ ] Statistics dashboard
-- [ ] Cloud sync (optional future feature)
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository  
-2. Create your feature branch  
-3. Commit your changes  
-4. Push to the branch  
-5. Open a Pull Request  
-
 ---
 
 ## 📜 License
