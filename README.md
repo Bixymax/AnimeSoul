@@ -21,7 +21,7 @@ Inspired by MyAnimeList, it provides a clean interface, secure local data manage
 - [Usage](#-usage)
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
-- [Contributing](#-contributing)
+- [Ideas & Feedback](#-ideas--feedback)
 - [License](#-license)
 - [Support](#-support)
 
@@ -52,9 +52,7 @@ Internet access is only required for fetching anime posters through the Jikan AP
 
 ## 📸 Screenshots
 
-*(Note: If the image below breaks, consider uploading your screenshot to your `assets/` folder and linking it like `![Screenshot](assets/screenshot.png)`)*
-
-![AnimeSoul_Screenshot](https://private-user-images.githubusercontent.com/262135075/557770022-81a50647-aea0-4fcc-a36d-f4ecf52c11ae.png)
+<img width="1400" height="1033" alt="AnimeSoul_Screenshot" src="https://github.com/user-attachments/assets/6dc32d08-6aee-4efd-9264-a110dae05ce4" />
 
 ---
 
@@ -109,7 +107,7 @@ python main.py
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 | Component | Technology |
 | :--- | :--- |
