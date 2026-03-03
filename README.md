@@ -120,16 +120,15 @@ python main.py
 ## 📂 Project Structure
 
 ```bash
-animesoul/
+AnimeSoul/
 │
-├── main.py
-├── database/
-│   └── db_manager.py
-├── ui/
-│   └── app_interface.py
-├── assets/
-│   └── icons/
-├── requirements.txt
+├── assets/             # Icons, images, and visual resources
+├── core/               # Main application logic (e.g., database management)
+├── ui/                 # Files related to the graphical interface (Tkinter)
+├── utils/              # Utility functions
+├── config.py           # Global application configuration
+├── main.py             # Entry point to launch the application
+├── requirements.txt    # Python dependencies
 └── README.md
 ```
 ---
